@@ -1,0 +1,12 @@
+# Build outputs
+mission_computer/flight_seq
+mission_computer/flight_seq.exe
+**/build/
+*.o
+*.obj
+*.elf
+*.bin
+
+# Python
+__pycache__/
+*.pyc
